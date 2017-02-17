@@ -16,7 +16,7 @@ namespace cms.Controllers
             return View("AddBlog");
         }
 
-        
+        //ajasdjasdj
         public ActionResult save(cms.Models.Blog blg)
         {
             #region old
